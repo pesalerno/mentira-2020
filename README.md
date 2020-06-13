@@ -6,3 +6,4 @@
 Ahora, **vamos a montar nuestros primeros cambios al repositorio**. 
 
 
+![](https://github.com/pesalerno/mentira-2020/blob/master/fotos/foto-1.png)
